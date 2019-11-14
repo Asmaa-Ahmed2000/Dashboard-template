@@ -57,19 +57,12 @@ hr{
     background-color: #EEEEEE;
     padding: 3%;
 }
-.Lang{
-    text-transform: uppercase;
-    text-decoration: none;
-    color: black;
-    font-weight: normal;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
-}
+
 
 .div3h1{
     float: left;
     color: #3c4858;
-    padding-right: 45%;
+    padding-right: 50%;
 }
 .div3S1{
     float: left;
